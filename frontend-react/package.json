@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-regular-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
     "@tailwindcss/vite": "^4.1.17",
     "axios": "^1.13.2",
     "react": "^19.2.0",
